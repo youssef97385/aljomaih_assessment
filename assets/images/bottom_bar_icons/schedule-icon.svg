@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-90 -8)">
+      <g id="Calendar" transform="translate(90 8)">
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="24" height="24" fill="none"/>
+        <g id="Calendar-2" data-name="Calendar" transform="translate(2 2)">
+          <path id="Path_121" data-name="Path 121" d="M227.571,154.9H210.385a1,1,0,0,1-.921-1.4,5,5,0,0,1,4.514-2.853h10a5,5,0,0,1,4.514,2.853,1,1,0,0,1-.921,1.4Z" transform="translate(-208.978 -148.203)" fill="#0f5699"/>
+          <path id="Path_122" data-name="Path 122" d="M228.978,156.953v6.25a5,5,0,0,1-5,5h-10a5,5,0,0,1-5-5v-6.25a1,1,0,0,1,1-1h18A1,1,0,0,1,228.978,156.953Z" transform="translate(-208.978 -148.203)" fill="#0f5699"/>
+          <path id="Path_123" data-name="Path 123" d="M223.219,153.1a.769.769,0,0,1-.769-.769v-3.356a.769.769,0,1,1,1.538,0v3.355A.769.769,0,0,1,223.219,153.1Z" transform="translate(-208.978 -148.203)" fill="#0f5699"/>
+          <path id="Path_124" data-name="Path 124" d="M214.737,153.1a.769.769,0,0,1-.769-.769v-3.356a.769.769,0,1,1,1.538,0v3.355a.769.769,0,0,1-.769.769Z" transform="translate(-208.978 -148.203)" fill="#0f5699"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
