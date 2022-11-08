@@ -29,8 +29,8 @@ class OrdersResponseModel {
   factory OrdersResponseModel.fromJson(Map<String, dynamic> json) => OrdersResponseModel(
     ammount: json["ammount"],
     date: json["date"],
-    userId: json["user_id"],
-    client: ClientModel.fromJson(json["client"]),
+    // userId: json["user_id"],
+    // client: ClientModel.fromJson(json["client"]),
 
     id: json["id"],
   );

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 const String kIqBaseUrl = "https://6368df0228cd16bba70ea475.mockapi.io";
-
+const String kGoogleCheckEndpoint = "https://google.com";
 // const kKu = 'ar';
 const kAr = 'ar';
 const kEn = 'en';
